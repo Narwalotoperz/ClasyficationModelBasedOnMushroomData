@@ -26,5 +26,7 @@ This example demonstrates the process of exploratory data analysis, model constr
 - **Google Colaboratory:** The analysis was conducted in Google Colaboratory, providing an interactive environment for developing and running the code. Additional descriptions, comments, and detailed explanations are available directly in the provided Colab notebook.
 
 This comprehensive approach ensures that the classification models are well-tuned and perform effectively on the mushroom dataset.
+Notebook was created with Google Colab and is designed to run in it. If you want to run Notepad locally, **you need to make sure that the appropriate libraries are available in your virtual environment**.
+
 
 **Have fun! 🙂**
